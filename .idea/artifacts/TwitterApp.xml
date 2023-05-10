@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="TwitterApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/TwitterApp</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="TwitterApp" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="TwitterApp.jar">
+        <element id="module-output" name="TwitterApp" />
+      </element>
+    </root>
+  </artifact>
+</component>
